@@ -1,0 +1,56 @@
+{
+  "uid" : "872fa50dd917fa7",
+  "name" : "test_add_002",
+  "fullName" : "test_py.test_002#test_add_002",
+  "historyId" : "b9fbd45f24b111d265f396039a519644",
+  "time" : {
+    "start" : 1632919879483,
+    "stop" : 1632919879483,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "webtest"
+  }, {
+    "name" : "parentSuite",
+    "value" : "test_py"
+  }, {
+    "name" : "suite",
+    "value" : "test_002"
+  }, {
+    "name" : "host",
+    "value" : "WIN-OUOPRAOKSUM"
+  }, {
+    "name" : "thread",
+    "value" : "9684-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_py.test_002"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "webtest" ]
+  },
+  "source" : "872fa50dd917fa7.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,12 @@
+.idea
+.pytest_cache
+__pycache__
+DataStructure
+Engineering
+venv
+company_weixin.py
+conftest.py
+ding_ding.py
+dingdingsendmag.py
+pytest.ini
+requirements.txt
