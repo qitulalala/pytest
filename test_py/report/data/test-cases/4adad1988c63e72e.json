@@ -1,11 +1,11 @@
 {
-  "uid" : "155382a530c88070",
-  "name" : "test_add_001",
-  "fullName" : "test_py.test_002#test_add_001",
-  "historyId" : "cda5bf7074ba1455628152d7350a5887",
+  "uid" : "4adad1988c63e72e",
+  "name" : "test_add_002",
+  "fullName" : "test_py.test_002#test_add_002",
+  "historyId" : "b9fbd45f24b111d265f396039a519644",
   "time" : {
-    "start" : 1632919879478,
-    "stop" : 1632919879478,
+    "start" : 1633515708187,
+    "stop" : 1633515708187,
     "duration" : 0
   },
   "status" : "passed",
@@ -27,7 +27,7 @@
     "value" : "WIN-OUOPRAOKSUM"
   }, {
     "name" : "thread",
-    "value" : "9684-MainThread"
+    "value" : "13128-MainThread"
   }, {
     "name" : "framework",
     "value" : "pytest"
@@ -51,6 +51,6 @@
     "categories" : [ ],
     "tags" : [ "webtest" ]
   },
-  "source" : "155382a530c88070.json",
+  "source" : "4adad1988c63e72e.json",
   "parameterValues" : [ ]
 }
